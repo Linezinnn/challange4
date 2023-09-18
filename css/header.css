@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 64px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 500;
+    line-height: 28px;
+    font-size: 14px;
+}

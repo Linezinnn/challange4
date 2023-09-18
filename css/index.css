@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #2C2B3D;
+    font-family: 'Open Sans', sans-serif;
+}
+.page{
+    max-width: 1092px;
+    margin: 71px auto 0;
+}
+#padlock{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    cursor: pointer;
+}
